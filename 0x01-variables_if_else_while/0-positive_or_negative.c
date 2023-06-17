@@ -1,8 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*more headers go here*/
-/*betty style doc for function main goes there*/
+/**
+ * main - A program that checks if a number is positive, negative, or zero.
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
