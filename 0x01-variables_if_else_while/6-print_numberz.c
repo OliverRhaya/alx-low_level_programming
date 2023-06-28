@@ -1,7 +1,7 @@
 #include<stdio.h>
  /**
-  * main - Commencement point
-  * Return: Always 0 (Accepted)
+  * main - Starting point
+  * Return: Always 0 (Success)
   */
 
 int main(void)
